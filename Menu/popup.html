@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>SP</title>
+  <style>
+    .overlay{
+      display:none;
+      position:absolute;
+      top:0%;
+      left:0%;
+      width:100%;
+      height:100%;
+      background-color:lightgray;
+      z-index:1;
+      opacity:.70;
+    }
+    .popup {
+      display:none;
+      position:absolute;
+      top: 10%;
+      left:25%;
+      width:50%;
+      height:50%;
+      padding:5px;
+      border:5px solid black;
+      background-color: white;
+      z-index:2;
+    }
+  </style>
+</head>
+<body>
+<div>
+  <h1>Pagina Principal</h1>
+  <button onclick = "document.getElementById('o').style.display='block';
+                     document.getElementById('p').style.display='block';">
+    Popup</button>
+</div>
+<div id="o" class="overlay"></div>
+<div id="p" class="popup">
+  <h2>Esto es un pop-up</h2>
+  <button onclick =
+          "document.getElementById('o').style.display='none';
+            document.getElementById('p').style.display='none';">
+    Regresar</button>
+</div>
+</body>
+</html>

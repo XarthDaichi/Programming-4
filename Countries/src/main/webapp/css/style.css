@@ -1,0 +1,29 @@
+body{
+    background-image: url("../images/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;     
+}
+
+.csdiv{
+    padding-left: 50px;
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    overflow: auto; 
+    border: 1px solid lightgray;
+}
+
+.pdiv {
+    height: 100%;
+    border: 1px solid red;
+}
+
+.container {
+    display: inline-block;
+}
+
+.infdiv {
+    border: 1px solid greenyellow;
+}

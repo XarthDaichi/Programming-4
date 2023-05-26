@@ -1,0 +1,27 @@
+
+ul.Menu li {list-style:none;}
+ul.Menu a {
+    text-decoration:none;
+    color:black;
+}
+ul.Menu>li {
+    display:inline-block;
+    vertical-align:top;
+}
+
+ul.Menu>li>ul {
+    padding-left:0;
+    /*padding-right:40px;*/
+}
+
+ul.Menu {
+    padding-left:0;
+}
+
+ul.Menu>li:hover {
+    background-color:aquamarine;
+}
+
+Ul.Menu>li>ul>li:hover {
+    background-color:purple;
+}

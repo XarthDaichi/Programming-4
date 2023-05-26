@@ -1,0 +1,10 @@
+H1 {
+    text-align: left;
+    color: red;
+    font-size:15px;
+}
+
+h1 {color:red;}
+#id1{color:lime;}
+.c1{color:blue;}
+h1.c1{color:magenta;}

@@ -1,0 +1,3 @@
+[submodule "Seguros"]
+	path = Seguros
+	url = https://github.com/XarthDaichi/Seguros.git
