@@ -3,4 +3,4 @@
 	url = https://github.com/XarthDaichi/Seguros.git
 [submodule "practicaExamen1-prograIV"]
 	path = practicaExamen1-prograIV
-	url = https://github.com/XarthDaichi/practicaExamen1-prograIV.git
+	url = git@github.com:XarthDaichi/practicaExamen1-prograIV.git
