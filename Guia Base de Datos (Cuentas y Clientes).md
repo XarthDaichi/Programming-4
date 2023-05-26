@@ -3,32 +3,32 @@
 > [GuiaDB](file:///home/xarthy/uni-notes/SS2023/Programming%204/GuiaDB)
 
 # Netbeans Configuration
-![[Programming-4/GuiaDB/nbactions.xml]]
-![[Programming-4/GuiaDB/nb-configuration.xml]]
-![[Programming-4/GuiaDB/pom.xml]]
+![[GuiaDB/nbactions.xml]]
+![[GuiaDB/nb-configuration.xml]]
+![[GuiaDB/pom.xml]]
 # Backend
 ## Base de Datos
-![[Programming-4/GuiaDB/Guia.sql]]
+![[GuiaDB/Guia.sql]]
 ## Data
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/data/ClienteDao.java]]
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/data/CuentaDao.java]]
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/data/RelDatabase.java]]
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/data/UsuarioDao.java]]
+![[GuiaDB/src/main/java/com/progra/guia/data/ClienteDao.java]]
+![[GuiaDB/src/main/java/com/progra/guia/data/CuentaDao.java]]
+![[GuiaDB/src/main/java/com/progra/guia/data/RelDatabase.java]]
+![[GuiaDB/src/main/java/com/progra/guia/data/UsuarioDao.java]]
 ## Logic
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/logic/Cliente.java]]
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/logic/Cuenta.java]]
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/logic/Service.java]]
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/logic/Usuario.java]]
+![[GuiaDB/src/main/java/com/progra/guia/logic/Cliente.java]]
+![[GuiaDB/src/main/java/com/progra/guia/logic/Cuenta.java]]
+![[GuiaDB/src/main/java/com/progra/guia/logic/Service.java]]
+![[GuiaDB/src/main/java/com/progra/guia/logic/Usuario.java]]
 
 # Frontend
 ## Presentation
 ### Cliente
 #### Cuenta
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/presentation/cliente/cuenta/Controller.java]]
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/presentation/cliente/cuenta/Model.java]]
+![[GuiaDB/src/main/java/com/progra/guia/presentation/cliente/cuenta/Controller.java]]
+![[GuiaDB/src/main/java/com/progra/guia/presentation/cliente/cuenta/Model.java]]
 #### Cuentas
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/presentation/cliente/cuentas/Controller.java]]
-![[Programming-4/GuiaDB/src/main/java/com/progra/guia/presentation/cliente/cuentas/Model.java]]
+![[GuiaDB/src/main/java/com/progra/guia/presentation/cliente/cuentas/Controller.java]]
+![[GuiaDB/src/main/java/com/progra/guia/presentation/cliente/cuentas/Model.java]]
 #### Datos
 ![[Programming-4/GuiaDB/src/main/java/com/progra/guia/presentation/cliente/datos/Controller.java]]
 ![[Programming-4/GuiaDB/src/main/java/com/progra/guia/presentation/cliente/datos/Model.java]]
