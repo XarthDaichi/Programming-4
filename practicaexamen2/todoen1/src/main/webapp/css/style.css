@@ -1,9 +1,7 @@
 body{
-    background-image: url("../images/background.jpg");
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
-    
+    background-size: cover;     
 }
 
 img.logo{
@@ -13,10 +11,5 @@ img.logo{
 
 img.filler{
     width: 500px;
-    height: auto;    
-}
-
-img.flag{
-    width: 200px;
     height: auto;    
 }
